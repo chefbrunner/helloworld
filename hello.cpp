@@ -3,6 +3,6 @@
 
 void hello()
 {
-	std::cout << "Helo world!" << std::endl;
+	std::cout << "Hello world!" << std::endl;
           // für die Übung absichtlich falsch geschrieben
 }
